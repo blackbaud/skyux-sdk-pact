@@ -34,7 +34,6 @@
   },
   "dependencies": {
     "@pact-foundation/pact": "5.3.0",
-    "@pact-foundation/pact-node": "6.7.0",
     "@pact-foundation/pact-web": "5.3.0"
   },
   "devDependencies": {
