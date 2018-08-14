@@ -1,1 +1,1 @@
-# SKY UX Core
+# @skyux-sdk/pact
