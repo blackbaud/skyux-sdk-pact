@@ -17,6 +17,14 @@
   "keywords": [],
   "author": "Blackbaud",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackbaud/skyux-sdk-pact.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blackbaud/skyux-sdk-pact/issues"
+  },
+  "homepage": "https://github.com/blackbaud/skyux-sdk-pact#readme",
   "peerDependencies": {
     "@blackbaud/auth-client": "^2.7.0",
     "@skyux/builder-utils": ">=3.0.0-alpha.1"

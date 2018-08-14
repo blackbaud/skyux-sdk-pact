@@ -1,5 +1,10 @@
 {
-  "name": "skyux-core",
+  "name": "skyux-sdk-pact",
   "mode": "easy",
-  "compileMode": "aot"
+  "compileMode": "aot",
+  "testSettings": {
+    "unit": {
+      "browserSet": "paranoid"
+    }
+  }
 }
