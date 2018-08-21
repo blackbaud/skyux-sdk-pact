@@ -1,6 +1,6 @@
 import {
   SkyAppConfig
-} from '@skyux/builder-utils/config';
+} from '@skyux/config';
 
 import {
   PactWeb
