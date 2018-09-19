@@ -1,3 +1,7 @@
+# 3.0.0-alpha.4 (2018-09-19)
+
+- Created `SkyPactModule`.
+
 # 3.0.0-alpha.3 (2018-09-11)
 
 - Updated dependencies.
