@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/blackbaud/skyux-sdk-pact#readme",
   "peerDependencies": {
+    "@angular/core": "^4.3.6",
     "@blackbaud/auth-client": "^2.7.0",
     "@pact-foundation/pact": "^5.3.0",
     "@pact-foundation/pact-web": "^5.3.0",
