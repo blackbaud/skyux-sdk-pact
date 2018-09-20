@@ -1,6 +1,6 @@
 {
   "name": "@skyux-sdk/pact",
-  "version": "3.0.0-alpha.4",
+  "version": "3.0.0",
   "description": "SKY UX Pact",
   "main": "bundles/bundle.umd.js",
   "module": "index.ts",
@@ -30,7 +30,7 @@
     "@blackbaud/auth-client": "^2.7.0",
     "@pact-foundation/pact": "^5.3.0",
     "@pact-foundation/pact-web": "^5.3.0",
-    "@skyux/config": ">=3.0.0-alpha.0"
+    "@skyux/config": "^3.0.0"
   },
   "dependencies": {
     "@pact-foundation/pact": "5.3.0",
@@ -48,9 +48,9 @@
     "@angular/platform-browser-dynamic": "4.3.6",
     "@angular/router": "4.3.6",
     "@blackbaud/auth-client": "2.7.0",
-    "@blackbaud/skyux": "2.24.0",
-    "@blackbaud/skyux-builder": "1.20.2",
-    "@skyux/config": "3.0.0-alpha.0",
+    "@blackbaud/skyux": "2.25.0",
+    "@blackbaud/skyux-builder": "1.22.0",
+    "@skyux/config": "3.0.0",
     "core-js": "2.4.1",
     "rxjs": "5.4.3",
     "ts-node": "3.0.4",
