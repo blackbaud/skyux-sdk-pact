@@ -1,3 +1,7 @@
+# 3.0.1 (2018-11-08)
+
+- Fixed dependency structure.
+
 # 3.0.0 (2018-09-20)
 
 - Initial major release.
