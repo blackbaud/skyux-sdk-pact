@@ -4,9 +4,6 @@
   "description": "SKY UX Pact",
   "main": "bundles/bundle.umd.js",
   "module": "index.ts",
-  "engines": {
-    "node": ">=8.11.1"
-  },
   "scripts": {
     "build": "skyux build-public-library",
     "skyux": "skyux",
@@ -26,14 +23,14 @@
   },
   "homepage": "https://github.com/blackbaud/skyux-sdk-pact#readme",
   "peerDependencies": {
-    "@angular/core": "^4.3.6",
-    "@blackbaud/auth-client": "^2.7.0",
-    "@pact-foundation/pact-web": "^5.3.0",
-    "@skyux/config": "^3.0.0"
+    "@angular/core": ">=4.3.6",
+    "@blackbaud/auth-client": "^2.12.0",
+    "@pact-foundation/pact-web": "^7.2.0",
+    "@skyux/config": "^3.2.0"
   },
   "dependencies": {},
   "devDependencies": {
-    "@blackbaud/skyux": "2.28.1",
-    "@blackbaud/skyux-builder": "1.28.0"
+    "@blackbaud/skyux": "2.31.0",
+    "@blackbaud/skyux-builder": "1.30.0"
   }
 }
