@@ -1,3 +1,8 @@
+# 3.1.0 (2018-12-03)
+
+- Updated peer dependencies to support Angular versions greater than 4.3.6. [#7](https://github.com/blackbaud/skyux-sdk-pact/pull/7)
+- Added support for `@pact-foundation/pact-web@^7.2.0`. [#7](https://github.com/blackbaud/skyux-sdk-pact/pull/7)
+
 # 3.0.1 (2018-11-08)
 
 - Fixed dependency structure.
