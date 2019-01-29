@@ -1,3 +1,7 @@
+# 3.2.0 (2019-01-29)
+
+- Added `SkyPactModule` to exports of root module. [#8](https://github.com/blackbaud/skyux-sdk-pact/pull/8)
+
 # 3.1.0 (2018-12-03)
 
 - Updated peer dependencies to support Angular versions greater than 4.3.6. [#7](https://github.com/blackbaud/skyux-sdk-pact/pull/7)
