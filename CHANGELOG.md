@@ -1,3 +1,8 @@
+# 3.2.1 (2019-06-14)
+
+- Added the missing `getContextToken()` method to the mock token provider. [#10](https://github.com/blackbaud/skyux-sdk-pact/pull/10)
+
+
 # 3.2.0 (2019-01-29)
 
 - Added `SkyPactModule` to exports of root module. [#8](https://github.com/blackbaud/skyux-sdk-pact/pull/8)
