@@ -1,6 +1,6 @@
 # 3.2.1 (2019-06-14)
 
-- Added missing `getContextToken()` method to mock token provider. [#10](https://github.com/blackbaud/skyux-sdk-pact/pull/10)
+- Added the missing `getContextToken()` method to the mock token provider. [#10](https://github.com/blackbaud/skyux-sdk-pact/pull/10)
 
 
 # 3.2.0 (2019-01-29)
