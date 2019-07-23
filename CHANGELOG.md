@@ -1,3 +1,7 @@
+# 3.3.0 (2019-07-23)
+
+- Added support for `@skyux-sdk/builder@3.8.0`. [#12](https://github.com/blackbaud/skyux-sdk-pact/pull/12)
+
 # 3.2.1 (2019-06-14)
 
 - Added the missing `getContextToken()` method to the mock token provider. [#10](https://github.com/blackbaud/skyux-sdk-pact/pull/10)

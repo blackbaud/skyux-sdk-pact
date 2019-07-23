@@ -1,6 +1,6 @@
 {
   "name": "@skyux-sdk/pact",
-  "version": "3.2.1",
+  "version": "3.3.0",
   "description": "SKY UX Pact",
   "main": "bundles/bundle.umd.js",
   "module": "index.ts",
@@ -43,7 +43,7 @@
     "@blackbaud/auth-client": "2.17.0",
     "@pact-foundation/pact": "9.0.0",
     "@pact-foundation/pact-web": "9.0.0",
-    "@skyux-sdk/builder": "3.7.1",
+    "@skyux-sdk/builder": "3.8.0",
     "@skyux-sdk/e2e": "3.1.2",
     "@skyux-sdk/pact": "3.2.1",
     "@skyux-sdk/testing": "3.1.0",
