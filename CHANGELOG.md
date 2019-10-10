@@ -1,3 +1,7 @@
+# 3.3.1 (2019-10-10)
+
+- Added the missing `decodeToken()` method to the mock token provider. [#16](https://github.com/blackbaud/skyux-sdk-pact/pull/16) (Thanks [@Blackbaud-KrisMahon](https://github.com/Blackbaud-KrisMahon)!)
+
 # 3.3.0 (2019-07-23)
 
 - Added support for `@skyux-sdk/builder@3.8.0`. [#12](https://github.com/blackbaud/skyux-sdk-pact/pull/12)
