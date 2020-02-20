@@ -1,3 +1,10 @@
+# 4.0.0-rc.0 (2020-02-20)
+
+### New features
+
+- Added support for `@angular/core@^9`. [#18](https://github.com/blackbaud/skyux-sdk-pact/pull/18)
+- Updated the pipeline to transpile to the [Angular Package Format](https://docs.google.com/document/d/1CZC2rcpxffTDfRDs6p1cfbmKNLA6x5O-NtkJglDaBVs/preview). [#18](https://github.com/blackbaud/skyux-sdk-pact/pull/18)
+
 # 3.3.1 (2019-10-10)
 
 - Added the missing `decodeToken()` method to the mock token provider. [#16](https://github.com/blackbaud/skyux-sdk-pact/pull/16) (Thanks [@Blackbaud-KrisMahon](https://github.com/Blackbaud-KrisMahon)!)
