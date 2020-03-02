@@ -40,7 +40,6 @@
     "@angular/platform-browser-dynamic": "9.0.4",
     "@angular/router": "9.0.4",
     "@blackbaud/auth-client": "2.24.0",
-    "@pact-foundation/pact-node": "10.5.0",
     "@pact-foundation/pact-web": "9.8.0",
     "@skyux-sdk/builder": "4.0.0-rc.2",
     "@skyux-sdk/e2e": "3.1.2",
