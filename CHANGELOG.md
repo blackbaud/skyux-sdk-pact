@@ -1,3 +1,9 @@
+# 4.0.0-rc.1 (2020-03-03)
+
+### New features
+
+- Updated peer dependencies to latest versions. [#19](https://github.com/blackbaud/skyux-sdk-pact/pull/19)
+
 # 4.0.0-rc.0 (2020-02-20)
 
 ### New features
