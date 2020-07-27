@@ -3,10 +3,9 @@ import {
 } from '@skyux/config';
 
 import {
+  Matchers,
   PactWeb
 } from '@pact-foundation/pact-web';
-
-export declare var Pact: any;
 
 /**
  * Wrapper service for pact-js functions to handle finding the correct pact server
@@ -19,18 +18,12 @@ export class SkyPactService {
 
   constructor(private appConfig: SkyAppConfig) {
     Object.keys(this.appConfig.runtime.pactConfig.providers).forEach((providerName: string) => {
-
-      this.pactProviders[providerName] =
-        new Pact.PactWeb(
-          {
-            host: this.appConfig.runtime.pactConfig.providers[providerName].host,
-            port: this.appConfig.runtime.pactConfig.providers[providerName].port
-          }
-        );
-
+      const pactProvider = this.appConfig.runtime.pactConfig.providers[providerName];
+      const pact = new PactWeb(pactProvider.pactOptions);
+      this.pactProviders[providerName] = pact;
     });
 
-    this.matchersInternal = Pact.Matchers;
+    this.matchersInternal = Matchers;
   }
 
   /**
