@@ -1,3 +1,9 @@
+# 4.0.0-rc.2 (2020-07-30)
+
+### Bug fixes
+
+- Fixed `SkyPactModule` to properly provide `SkyPactService` and `SkyAuthTokenProvider`. [#31](https://github.com/blackbaud/skyux-sdk-pact/pull/31)
+
 # 4.0.0-rc.1 (2020-03-03)
 
 ### New features
