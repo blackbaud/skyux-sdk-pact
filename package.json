@@ -24,7 +24,8 @@
     "@angular/core": "^9.1.2",
     "@blackbaud/auth-client": "^2.29.0",
     "@pact-foundation/pact-web": "^9.11.1",
-    "@skyux/config": "^4.0.1"
+    "@skyux/config": "^4.0.1",
+    "@skyux/http": "^4.0.0"
   },
   "dependencies": {},
   "devDependencies": {
