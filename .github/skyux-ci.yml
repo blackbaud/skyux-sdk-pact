@@ -5,12 +5,15 @@ on:
     branches:
       - master
       - 3.x.x
+      - rc-4.0.0
   push:
     branches:
       - master
       - 3.x.x
+      - rc-4.0.0
     tags:
       - '*.*.*'
+      - '*.*.*-rc.*'
 
 jobs:
   ci:
