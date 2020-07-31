@@ -1,3 +1,14 @@
+# 4.0.0 (2020-07-31)
+
+### New features
+
+- Added support for `@angular/core@^9`. [#18](https://github.com/blackbaud/skyux-sdk-pact/pull/18)
+- Updated the pipeline to transpile to the [Angular Package Format](https://docs.google.com/document/d/1CZC2rcpxffTDfRDs6p1cfbmKNLA6x5O-NtkJglDaBVs/preview). [#18](https://github.com/blackbaud/skyux-sdk-pact/pull/18)
+
+### Bug fixes
+
+- Fixed `SkyPactModule` to properly provide `SkyPactService` and `SkyAuthTokenProvider`. [#31](https://github.com/blackbaud/skyux-sdk-pact/pull/31)
+
 # 4.0.0-rc.2 (2020-07-30)
 
 ### Bug fixes
@@ -8,7 +19,7 @@
 
 ### New features
 
-- Updated peer dependencies to latest versions. [#19](https://github.com/blackbaud/skyux-sdk-pact/pull/19)
+- Updated peer dependencies to the latest versions. [#19](https://github.com/blackbaud/skyux-sdk-pact/pull/19)
 
 # 4.0.0-rc.0 (2020-02-20)
 

@@ -1,6 +1,6 @@
 {
   "name": "@skyux-sdk/pact",
-  "version": "4.0.0-rc.2",
+  "version": "4.0.0",
   "description": "SKY UX Pact",
   "scripts": {
     "build": "skyux build-public-library",
